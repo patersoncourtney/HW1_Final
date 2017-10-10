@@ -1,0 +1,37 @@
+/* Your CSS code goes in this file. */
+
+body {
+  margin: 10px auto;
+  width: 960px;
+}
+
+body {
+  font-family: "Helvetica", "Georgia", sans-serif;
+   /*If you prefer a serif font, try "Georgia" */
+  font-size: 18px;
+}
+
+h1 { font-size: 3em; font-weight: bold; }
+h2 { font-size: 2.0em; font-weight: bold;}
+
+h2 {
+  margin-bottom: 0.5em;
+  margin-top: 0.5em;
+  border-bottom-color: black;
+}
+
+h3 { font-size: 1.5em; font-weight: bold; }
+
+h3 {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  border-bottom: solid 4px gray;
+}
+body {
+  line-height: 1.5;
+}
+/*img {
+  float: left;
+  box-shadow: 40px 40px 300px #AAA;
+  width: 500px;
+}*/
